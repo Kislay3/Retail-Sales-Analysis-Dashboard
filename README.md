@@ -23,8 +23,8 @@ To analyze over 10,000 sales records and deliver a dynamic, executive-level dash
 
 - DAX: Custom measures and KPIs in Power BI
 
-# 📊 Key Features
-##📈 Executive Overview Dashboard:
+## 📊 Key Features
+## 📈 Executive Overview Dashboard:
 High-level KPIs, sales trends, region-wise performance, YoY growth
 
 ## 🔎 Product & Customer Deep Dive:
