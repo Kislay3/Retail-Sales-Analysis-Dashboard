@@ -1,7 +1,7 @@
 # Retail-Sales-Analysis-Dashboard
 This project presents a comprehensive sales and profit analysis for a fictional retail company — All-Mart Superstore — using Power BI, Python ,  SQL, and Excel. The goal was to uncover key business insights from historical sales data to support strategic decision-making across product, customer, and regional dimensions.
 
-##📌 Project Objective
+## 📌 Project Objective
 To analyze over 10,000 sales records and deliver a dynamic, executive-level dashboard that highlights:
 
 - High-performing products and segments
@@ -12,7 +12,7 @@ To analyze over 10,000 sales records and deliver a dynamic, executive-level dash
 
 - Impact of discounts on profitability
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 - Power BI: Data visualization and dashboarding
 
 - Python (Pandas): For transformation of CSV into normalized tables
@@ -23,14 +23,14 @@ To analyze over 10,000 sales records and deliver a dynamic, executive-level dash
 
 - DAX: Custom measures and KPIs in Power BI
 
-#📊 Key Features
+# 📊 Key Features
 ##📈 Executive Overview Dashboard:
 High-level KPIs, sales trends, region-wise performance, YoY growth
 
-##🔎 Product & Customer Deep Dive:
+## 🔎 Product & Customer Deep Dive:
 Sub-category analysis, profit by segment, customer rankings, discount impact
 
-#⚠️ Key Insights Extracted:
+# ⚠️ Key Insights Extracted:
 
 - Sales YoY Growth: +47%
 
@@ -42,7 +42,7 @@ Sub-category analysis, profit by segment, customer rankings, discount impact
 
 - High discounts (>20%) reduce profitability
 
-#📁 Project Structure
+# 📁 Project Structure
 
 📦 Retail-Sales-Analysis-Dashboard
 ├── data/
@@ -54,13 +54,13 @@ Sub-category analysis, profit by segment, customer rankings, discount impact
 ├── Retail Sales Analysis Dashboard.pbix
 ├── Retail Sales Report.pdf
 └── README.md
-##📌 Outcome & Business Impact
+## 📌 Outcome & Business Impact
 - Enabled visibility into profit leaks and high-value customer segments
 
 - Helped identify optimal discount thresholds
 
 - Dashboard is scalable for monthly/quarterly reviews by business teams
 
-##👨‍💻 Author
+## 👨‍💻 Author
 - Kislay Gaur
 - Aspiring Data Analyst | SQL • Power BI • Excel Python
